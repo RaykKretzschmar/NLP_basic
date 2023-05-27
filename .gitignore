@@ -1,3 +1,6 @@
 .DS_Store
 .env
 predictions_rule_based_2.txt
+predictions.txt
+data/teaching-dataset/input.txt
+data/teaching-dataset/input 2.txt
