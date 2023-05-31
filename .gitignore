@@ -3,3 +3,6 @@
 predictions_rule_based_2.txt
 /data
 .gitignore
+predictions.txt
+data/teaching-dataset/input.txt
+data/teaching-dataset/input 2.txt
