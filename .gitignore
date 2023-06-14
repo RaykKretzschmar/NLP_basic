@@ -7,5 +7,6 @@ predictions.txt
 data/teaching-dataset/input.txt
 data/teaching-dataset/input 2.txt
 data/teaching-dataset/references.txt
-.vscode/
+data/teaching-dataset/references 2.txt
 predictions_orig.txt
+.vscode/
