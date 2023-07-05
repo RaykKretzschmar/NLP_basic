@@ -2,7 +2,6 @@
 .env
 predictions_rule_based_2.txt
 .gitignore
-predictions.txt
 predictions_copy.txt
 data/teaching-dataset/input.txt
 data/teaching-dataset/input 2.txt
